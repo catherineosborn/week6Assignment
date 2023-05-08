@@ -1,0 +1,23 @@
+{
+  "name": "yes",
+  "version": "18.16.0",
+  "description": "npm v9.5.1",
+  "main": "yes",
+  "scripts": {
+    "test": "ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catherineosborn/testWeek6.git"
+  },
+  "author": "catherineosborn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catherineosborn/testWeek6/issues"
+  },
+  "homepage": "https://github.com/catherineosborn/testWeek6#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
